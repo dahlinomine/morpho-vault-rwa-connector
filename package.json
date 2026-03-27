@@ -1,0 +1,10 @@
+{
+  "name": "morpho-vault-rwa-connector",
+  "version": "0.1.0",
+  "description": "Solidity adapters to integrate RWA collateral into Morpho Blue vaults.",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
